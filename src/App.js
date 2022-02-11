@@ -1,5 +1,4 @@
 import BinDunDun from './BingDunDun'
-import './App.css'
 
 function App () {
   return (
